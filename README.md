@@ -1,6 +1,6 @@
-# Desafio Microserviços⚙️
+# Desafio Microsserviços⚙️
 
-Desenvolvimento de uma aplicação baseada em microserviços utilizando Spring Cloud.
+Desenvolvimento de uma aplicação baseada em microsserviços utilizando Spring Cloud.
 
 ## Serviços
 
