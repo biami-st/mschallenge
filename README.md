@@ -1,16 +1,16 @@
-# Desafio Microserviços⚙️
+# Desafio Microsserviços⚙️
 
-Desenvolvimento de uma aplicação baseada em microserviços utilizando Spring Cloud.
+Desenvolvimento de uma aplicação baseada em microsserviços utilizando Spring Cloud.
 
 ## Serviços
 
-#### 💻 Microserviço 1 : Catálogo de Produtos
+#### 💻 Microsserviço 1 : Catálogo de Produtos
 
 * Acessível por "/produtos".
 * Permite cadastrar, listar e consultar produtos.
 * Persistência via H2 Database.
      
-#### 💻 Microserviço 2 : Simulador de Pedido
+#### 💻 Microsserviço 2 : Simulador de Pedido
 
 * Acessível por "/pedidos".
 * Permite simular pedidos com base em uma lista de produtos.
